@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35939fc8-09a6-4b0d-b862-05702a0aafd1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../cw-ai/src/main/java/uk/ac/bris/cs/scotlandyard/ui/ai/Clock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scotland Yard Report.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Scotland Yard Report.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw-ai/src/main/java/uk/ac/bris/cs/scotlandyard/ui/ai/MiniMaxAI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw-ai/src/main/java/uk/ac/bris/cs/scotlandyard/ui/ai/MiniMaxAI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw-ai/src/main/java/uk/ac/bris/cs/scotlandyard/ui/ai/MyTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw-ai/src/main/java/uk/ac/bris/cs/scotlandyard/ui/ai/MyTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw-ai/src/main/java/uk/ac/bris/cs/scotlandyard/ui/ai/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw-ai/src/main/java/uk/ac/bris/cs/scotlandyard/ui/ai/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cw-ai/src/main/java/uk/ac/bris/cs/scotlandyard/ui/ai/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cw-ai/src/main/java/uk/ac/bris/cs/scotlandyard/ui/ai/Tree.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Yt7QmnvEpLUW5moMavm0UtJIB6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cw-ai" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="JUnit.AllTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uk.ac.bris.cs.scotlandyard.Main" />
+      <module name="cw-model" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.ac.bris.cs.scotlandyard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AllTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cw-model" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.ac.bris.cs.scotlandyard.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uk.ac.bris.cs.scotlandyard.model" />
+      <option name="MAIN_CLASS_NAME" value="uk.ac.bris.cs.scotlandyard.model.AllTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AllTest" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35939fc8-09a6-4b0d-b862-05702a0aafd1" name="Default Changelist" comment="" />
+      <created>1583750036730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583750036730</updated>
+      <workItem from="1583750063783" duration="189000" />
+      <workItem from="1583770218906" duration="1288000" />
+      <workItem from="1583785694458" duration="264000" />
+      <workItem from="1583855741993" duration="5861000" />
+      <workItem from="1583876808344" duration="209000" />
+      <workItem from="1583941577210" duration="1078000" />
+      <workItem from="1583949048863" duration="87000" />
+      <workItem from="1583952830005" duration="1545000" />
+      <workItem from="1584103537211" duration="354000" />
+      <workItem from="1584296899441" duration="7454000" />
+      <workItem from="1584349473695" duration="8328000" />
+      <workItem from="1584374900255" duration="3958000" />
+      <workItem from="1584378918030" duration="4809000" />
+      <workItem from="1584385326247" duration="170000" />
+      <workItem from="1584461279381" duration="5424000" />
+      <workItem from="1584487221097" duration="236000" />
+      <workItem from="1584487746759" duration="143000" />
+      <workItem from="1584532370643" duration="582000" />
+      <workItem from="1584962289854" duration="1260000" />
+      <workItem from="1584964214969" duration="192000" />
+      <workItem from="1585305906886" duration="11985000" />
+      <workItem from="1585577135479" duration="2419000" />
+      <workItem from="1585658973504" duration="620000" />
+      <workItem from="1585823580343" duration="31000" />
+      <workItem from="1585825397214" duration="662000" />
+      <workItem from="1586862546984" duration="830000" />
+      <workItem from="1586863526198" duration="20000" />
+      <workItem from="1587375746026" duration="1364000" />
+      <workItem from="1588163548659" duration="624000" />
+      <workItem from="1588323520378" duration="29000" />
+      <workItem from="1588756661530" duration="669000" />
+      <workItem from="1588842225469" duration="529000" />
+      <workItem from="1589105756933" duration="1267000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1584375662229">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1584375662229" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1588842759915">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588842759915" />
+    <state width="1493" height="343" key="GridCell.Tab.0.bottom" timestamp="1589109060448">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="343" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589109060448" />
+    <state width="1493" height="343" key="GridCell.Tab.0.center" timestamp="1589109060448">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="343" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589109060448" />
+    <state width="1493" height="343" key="GridCell.Tab.0.left" timestamp="1589109060448">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="343" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589109060448" />
+    <state width="1493" height="343" key="GridCell.Tab.0.right" timestamp="1589109060448">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="343" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589109060448" />
+    <state width="1493" height="344" key="GridCell.Tab.1.bottom" timestamp="1587385792936">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="344" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587385792936" />
+    <state width="1493" height="344" key="GridCell.Tab.1.center" timestamp="1587385792936">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="344" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587385792936" />
+    <state width="1493" height="344" key="GridCell.Tab.1.left" timestamp="1587385792936">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="344" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587385792936" />
+    <state width="1493" height="344" key="GridCell.Tab.1.right" timestamp="1587385792936">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="344" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587385792936" />
+    <state x="277" y="54" key="SettingsEditor" timestamp="1583941623976">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583941623976" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1583941707597">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1583941707597" />
+  </component>
+</project>
